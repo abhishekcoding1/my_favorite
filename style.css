@@ -6,3 +6,14 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+img{
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
+
+.photos{
+    height:300px;
+    width: 300px;
+}
